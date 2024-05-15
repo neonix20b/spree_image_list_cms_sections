@@ -1,0 +1,5 @@
+require 'spree_core'
+require 'spree_extension'
+require 'spree_image_list_cms_sections/engine'
+require 'spree_image_list_cms_sections/version'
+require 'spree_image_list_cms_sections/configuration'
